@@ -68,3 +68,20 @@ text_preprocessing/
 machine_learning_learning_path.md
 text_preprocessing learning path.md
 learning_materials/
+
+# Local Python environment
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+
+# Local editor settings
+.vscode/
+# Local datasets
+data/training_data.csv
